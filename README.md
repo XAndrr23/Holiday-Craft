@@ -22,5 +22,5 @@ A short description of what this resource pack does:
 - Any other items may be not renamed in order to the new game id textures(not sure)
 
 ## Credits
-- Original textures: Holiday Craft, Blaesten35(me)
+- Original textures: Holiday Craft → HelgaStudio333
 - Conversion & fixes to modern version: Blaesten35(me)
