@@ -24,3 +24,7 @@ A short description of what this resource pack does:
 ## Credits
 - Original textures: Holiday Craft → HelgaStudio333
 - Conversion & fixes to modern version: Blaesten35(me)
+
+## License
+Free to use in personal packs.
+Do not reupload without credit.
